@@ -1,0 +1,23 @@
+{
+  "name": "dance-joint",
+  "version": "1.0.0",
+  "description": "this is the version one of dance joint",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/am66012/dance-joint.git"
+  },
+  "author": "abhishek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/am66012/dance-joint/issues"
+  },
+  "homepage": "https://github.com/am66012/dance-joint#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
