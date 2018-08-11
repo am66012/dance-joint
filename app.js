@@ -13,10 +13,10 @@ app.get('/login', (req, res) => {
     res.render("login");
 });
 
-app.listen(7000, (err) => {
+app.listen(8000, (err) => {
     if(err){
         console.log(err);
     }else{
-        console.log("your app is running on port: 7000");
+        console.log("your app is running on port: 8000");
     }
 });
